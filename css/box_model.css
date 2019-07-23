@@ -1,0 +1,45 @@
+
+.box {
+  display: block;
+  background: green;
+  width: 100px;
+  height: 200px;
+
+  border: 15px solid black;
+  margin: 300px
+}
+
+
+div {
+  height: 100px;
+  width: 100px;
+  padding: 50px;
+  
+  
+} 
+
+#first-div {
+  background-color: #39cccc;
+  /* box-sizing: border-box */
+}
+
+#second-div {
+  background-color: #ff4136;
+}
+
+.secret {
+  background-color: black;
+  text-align: center;
+  
+}
+.image-1-container {
+  height: 300px
+  width: 200px
+}
+
+p {
+  background-color: lightpink;
+  text-align: center;
+}
+
+
